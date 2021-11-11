@@ -5,6 +5,14 @@ As a user I can add a plant in a garden
 As a user I can delete a plant
 
 
+### livecode 2
+
+#generate a Tag model
+#generate a model that will be used as a join table
+#Add associations and validations
+#crash test
+
+
 
 .card-remove-link {
   color: white;
